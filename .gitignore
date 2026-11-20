@@ -1,0 +1,6 @@
+# Segredos e estado local (NUNCA subir para o Git)
+.env
+state.json
+inbox/
+__pycache__/
+*.pyc
